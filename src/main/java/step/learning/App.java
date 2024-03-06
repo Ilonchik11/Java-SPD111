@@ -8,7 +8,8 @@ public class App
 {
     public static void main( String[] args )
     {
-        new Intro().demo();
+        // new Intro().demo();
+        new PhoneDirectory().PhoneApp();
     }
 }
 /*
